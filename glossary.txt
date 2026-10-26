@@ -25,3 +25,5 @@ absoluteness of matter: The philosophical view that matter exists independently 
 pseudoscientific: Describing claims, beliefs, theories, or practices that are presented as scientific but do not adequately follow scientific methods, standards, or principles.
 
 well-substantiated: Supported by sufficient, reliable evidence, facts, or sound reasoning.
+
+biodegradable: Capable of being broken down naturally by microorganisms, such as bacteria and fungi, into simpler substances.
