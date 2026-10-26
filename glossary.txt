@@ -19,3 +19,5 @@ heredity of living organisms: The biological process by which genetic informatio
 nucleotide: The basic structural unit of DNA and RNA, consisting of three components: a nitrogenous base, a five-carbon sugar (ribose or deoxyribose), and one or more phosphate groups.
 
 life-forms: Living organisms or types of living organisms, such as animals, plants, fungi, bacteria, and archaea.
+
+absoluteness of matter: The philosophical view that matter exists independently of consciousness or perception and constitutes the fundamental reality of existence.
