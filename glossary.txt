@@ -15,3 +15,7 @@ taxonomy: The branch of biology concerned with identifying, naming, describing, 
 the four mechanisms of evolution: 1. mutation, 2. natural selection, 3. genetic drift, and 4. gene flow.
 
 heredity of living organisms: The biological process by which genetic information and inherited characteristics are passed from parents to their offspring in living organisms.
+
+nucleotide: The basic structural unit of DNA and RNA, consisting of three components: a nitrogenous base, a five-carbon sugar (ribose or deoxyribose), and one or more phosphate groups.
+
+life-forms: Living organisms or types of living organisms, such as animals, plants, fungi, bacteria, and archaea.
