@@ -21,3 +21,5 @@ nucleotide: The basic structural unit of DNA and RNA, consisting of three compon
 life-forms: Living organisms or types of living organisms, such as animals, plants, fungi, bacteria, and archaea.
 
 absoluteness of matter: The philosophical view that matter exists independently of consciousness or perception and constitutes the fundamental reality of existence.
+
+pseudoscientific: Describing claims, beliefs, theories, or practices that are presented as scientific but do not adequately follow scientific methods, standards, or principles.
