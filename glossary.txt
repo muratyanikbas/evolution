@@ -13,3 +13,5 @@ biological classification: The systematic organization of living organisms into 
 taxonomy: The branch of biology concerned with identifying, naming, describing, and classifying living organisms.
 
 the four mechanisms of evolution: 1. mutation, 2. natural selection, 3. genetic drift, and 4. gene flow.
+
+heredity of living organisms: The biological process by which genetic information and inherited characteristics are passed from parents to their offspring in living organisms.
