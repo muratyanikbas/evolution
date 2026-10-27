@@ -31,3 +31,5 @@ biodegradable: Capable of being broken down naturally by microorganisms, such as
 false statement: A statement that is not true.
 
 appeared in water by chance: Something came into existence or became visible in water randomly, without deliberate intervention or planning.
+
+paleontology: The scientific study of life forms that existed during prehistoric or geological periods, particularly through the examination of fossils.
