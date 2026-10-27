@@ -39,3 +39,5 @@ the study of fossils: The scientific examination and analysis of preserved remai
 history of life: (In sense of evolution) The study of life on Earth, including its origins, forms, characteristics, and changes throughout Earth's history, from its formation to the present day.
 
 - https://en.wikipedia.org/wiki/History_of_life
+
+fossil record: The total collection of fossils discovered and documented.
