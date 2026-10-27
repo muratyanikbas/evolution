@@ -29,3 +29,5 @@ well-substantiated: Supported by sufficient, reliable evidence, facts, or sound 
 biodegradable: Capable of being broken down naturally by microorganisms, such as bacteria and fungi, into simpler substances.
 
 false statement: A statement that is not true.
+
+appeared in water by chance: Something came into existence or became visible in water randomly, without deliberate intervention or planning.
