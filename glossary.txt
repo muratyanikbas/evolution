@@ -41,3 +41,5 @@ history of life: (In sense of evolution) The study of life on Earth, including i
 - https://en.wikipedia.org/wiki/History_of_life
 
 fossil record: The total collection of fossils discovered and documented.
+
+living cell: The smallest structural and functional unit of a living organism, capable of carrying out essential life processes, including metabolism, growth, and reproduction.
