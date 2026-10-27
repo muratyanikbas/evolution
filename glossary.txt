@@ -27,3 +27,5 @@ pseudoscientific: Describing claims, beliefs, theories, or practices that are pr
 well-substantiated: Supported by sufficient, reliable evidence, facts, or sound reasoning.
 
 biodegradable: Capable of being broken down naturally by microorganisms, such as bacteria and fungi, into simpler substances.
+
+false statement: A statement that is not true.
