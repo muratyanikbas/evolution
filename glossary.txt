@@ -48,4 +48,4 @@ abiogenesis (/ origin of life): (In the sense of evolution:) The beginning of li
 
 biopoiesis: The hypothetical process by which living organisms first arose from nonliving matter through natural chemical processes.
 
-cosmic matter history: How matter emerged, changed, and accumulated across the universe’s lifetime.
+cosmic matter history (chronology of the universe): How matter emerged, changed, and accumulated across the universe’s lifetime.
