@@ -20,3 +20,5 @@ Does the theory of evolution provide a well-substantiated explanation?
 
 Is an atom mostly empty space, or is that a simplification because electrons occupy quantum states throughout it?
 An atom’s nucleus is tiny compared with its electron cloud, so most of its volume is often called “empty space,” but that is a simplification: electrons occupy quantum states throughout the atom, and the phrase does not mean the atom is literally a void.
+
+Do paleontologists use fossils to classify organisms?
