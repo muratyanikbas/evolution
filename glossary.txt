@@ -45,3 +45,5 @@ fossil record: The total collection of fossils discovered and documented.
 living cell: The smallest structural and functional unit of a living organism, capable of carrying out essential life processes, including metabolism, growth, and reproduction.
 
 abiogenesis (/ origin of life): (In the sense of evolution:) The beginning of life on Earth, including the circumstances and processes through which the first living organisms came into existence.
+
+biopoiesis: The hypothetical process by which living organisms first arose from nonliving matter through natural chemical processes.
