@@ -25,6 +25,8 @@ The deceptive message of materialism?
 
 Is the first cause, if there is one, of divine origin?
 
+Can a first cause, or multiple first causes, possess knowledge?
+
 ## Cosmological argument (first cause)
 
 The cosmological argument is a philosophical argument concerning the existence of God or a first cause of the universe.
