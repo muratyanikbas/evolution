@@ -51,3 +51,5 @@ biopoiesis: The hypothetical process by which living organisms first arose from 
 cosmic matter history (chronology of the universe): How matter emerged, changed, and accumulated across the universe’s lifetime.
 
 evolution of cells: (In sense of evolution:) The evolutionary origin of cells and their subsequent development through evolutionary processes.
+
+darwinism: Darwinism is the theory of biological evolution developed by Charles Darwin. The term darwinism is more broadly to refer to Darwin's evolutionary ideas.
