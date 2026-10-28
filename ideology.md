@@ -17,6 +17,8 @@ Is materialism, in fact, an ancient dogma with no scientific basis?
 
 Who were the philosophers of the 18th century?
 
+Was science distorted to make room for materialism?
+
 ## First cause?
 
 Is the first cause, if there is one, of divine origin?
