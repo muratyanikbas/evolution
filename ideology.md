@@ -15,6 +15,8 @@ Does materialist philosophy accept only the existence of matter?
 
 Is materialism, in fact, an ancient dogma with no scientific basis?
 
+Who were the philosophers of the 18th century?
+
 ## First cause?
 
 Is the first cause, if there is one, of divine origin?
