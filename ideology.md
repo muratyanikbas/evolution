@@ -11,3 +11,7 @@ Is it an ancient dogma of materialist philosophy?
 ## Materialist philosophy
 
 Does Darwinism support materialist philosophy?
+
+## First cause?
+
+Is the first cause, if there is one, of divine origin?
