@@ -84,3 +84,5 @@ Are there natural mechanisms that can cause evolution?
 According to the theory of evolution, did every living species evolve from an ancestral species?
 
 Does life, which consists of matter and has evolved over millions of years, require matter, such as water, to survive?
+
+What temperature must the surrounding environment have for a single viable cell to survive?
