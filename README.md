@@ -1,4 +1,4 @@
-# Scientific Refutation of the Theory of Evolution
+# Scientific refutation of the theory of evolution
 
 [Body of the paper: Scientific refutation of the theory of evolution](evolution.md)
 
