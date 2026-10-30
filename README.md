@@ -1,6 +1,6 @@
 # Scientific Refutation of the Theory of Evolution
 
-(Body of the paper: Scientific refutation of the theory of evolution)[evolution.md]
+[Body of the paper: Scientific refutation of the theory of evolution](evolution.md)
 
 The scientific collapse of the theory of evolution.
 
