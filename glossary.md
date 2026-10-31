@@ -117,3 +117,7 @@ A fundamental structural and functional component from which living organisms ar
 ## mitosis
 
 The process of cell division in which a eukaryotic cell's nucleus divides, producing two genetically identical nuclei, typically followed by the formation of two daughter cells.
+
+## natural phenomena (natural phenomenon)
+
+*Natural phenomena* are observable events, processes, or occurrences in the natural world that arise from natural causes and can be studied and explained through scientific investigation. The singular of natural phenomena is natural phenomenon.
