@@ -29,6 +29,8 @@ Possession of a soul?
 
 Is the first cause, if there is one, of divine origin?
 
+Have humans, throughout their existence, always questioned how things came into being, and what is the origin of the knowledge and thought processes that give rise to such questions?
+
 Can a first cause, or multiple first causes, possess knowledge?
 
 ## Cosmological argument (first cause)
