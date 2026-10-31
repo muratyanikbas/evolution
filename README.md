@@ -2,7 +2,7 @@
 
 [Body of the paper: Scientific refutation of the theory of evolution](evolution.md)
 
-[The theory of creations](creation.md)
+[The theory of creation](creation.md)
 
 The scientific collapse of the theory of evolution.
 
