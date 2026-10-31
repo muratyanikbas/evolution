@@ -121,3 +121,7 @@ The process of cell division in which a eukaryotic cell's nucleus divides, produ
 ## natural phenomena (natural phenomenon)
 
 *Natural phenomena* are observable events, processes, or occurrences in the natural world that arise from natural causes and can be studied and explained through scientific investigation. The singular of natural phenomena is natural phenomenon.
+
+## system complexity
+
+System complexity refers to the degree to which a system consists of multiple interconnected, interacting, and interdependent components that work together to perform specific functions.
