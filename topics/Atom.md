@@ -6,4 +6,4 @@
 
 A neutron has zero net electric charge. It is electrically neutral.
 
-$Q_n = 0\,\mathrm{C}$
+$Q_n = 0\ \mathrm{C}$
