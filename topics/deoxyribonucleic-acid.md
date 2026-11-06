@@ -1,6 +1,8 @@
 # Deoxyribonucleic acid
 
-The structure of DNA is a double helix consisting of two complementary strands that twist around each other.
+The DNA double helix is a molecular structure consisting of two complementary strands of DNA that twist around each other.
+
+![[dna-helix.png]]
 
 DNA is short for deoxyribonucleic acid.
 
